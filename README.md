@@ -18,4 +18,5 @@ COMP-6721-Assignment-1
 
 
 #### Note
-    There is one terminal/cmd output file 'autograder_out.txt' which shows the grading and result of test cases.
+    There is one terminal/cmd output file 'autograder_out.txt' which shows the grading and 
+    result of test cases.
